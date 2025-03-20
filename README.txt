@@ -47,6 +47,10 @@ Protein.R is used to analyse the data files and generate Heatmaps and supplement
 
 Samples were analyzed by Signatope GmbH, Reutlingen, Germany).
 
+---------------------------------------------------------------------
+
+This project is licensed under the terms of CC-BY-4.0.
+
 
 
 
