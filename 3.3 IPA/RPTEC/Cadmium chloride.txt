@@ -1,0 +1,16 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	4,60E-04	CCND1,CDKN1A	2
+Cardiac Regeneration	Regeneration of cardiac muscle tissue	5,55E-04	CDKN1A	1
+Liver Hyperplasia/Hyperproliferation	Liver cancer	1,76E-03	CCND1,CDKN1A,HMOX1,MT1A,NQO1,UCHL1	6
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	2,62E-03	CCND1,CDKN1A,MT1A,NQO1	4
+Cardiac Dysfunction	Calcification of aortic valve	3,15E-03	HMOX1,UCHL1	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage B hepatocellular carcinoma	8,85E-03	CCND1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage C hepatocellular carcinoma	1,05E-02	CCND1	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	1,94E-02	CCND1,CDKN1A,HMOX1,MT1A,NQO1	5
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	3,21E-02	NQO1	1
+Kidney Failure	Chronic renal failure	4,20E-02	CDKN1A	1
+Renal Proliferation	Cell proliferation of kidney cell lines	5,85E-02	CDKN1A	1
+Cardiac Arrythmia	Atrial fibrillation	6,19E-02	CDKN1A	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	7,45E-02	CDKN1A	1

@@ -1,0 +1,38 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Inflammation/Hepatitis	HIV-HCV co-infection	1,41E-06	CYP3A4,UGT1A1	2
+Liver Inflammation/Hepatitis	Inflammation of liver	2,11E-05	CYP3A4,CYP7A1,POR,UGT1A1	4
+Liver Inflammation/Hepatitis	Infection by Hepatitis C virus	3,71E-05	CYP3A4,POR,UGT1A1	3
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 1	5,09E-04	UGT1A1	1
+Liver Hyperbilirubinemia	Severe hyperbilirubinemia	5,09E-04	UGT1A1	1
+Liver Hyperbilirubinemia	Lucey-Driscoll syndrome	1,02E-03	UGT1A1	1
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 2	1,02E-03	UGT1A1	1
+Liver Necrosis/Cell Death	Quantity of apoptotic hepatocytes	1,02E-03	TNFSF10	1
+Liver Hyperplasia/Hyperproliferation	Inoperable liver metastasis	2,03E-03	POR	1
+Liver Hyperbilirubinemia	Gilbert syndrome	2,03E-03	UGT1A1	1
+Liver Inflammation/Hepatitis	Chronic hepatitis C virus genotype 4	3,56E-03	POR	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 2	3,56E-03	CYP7A1	1
+Liver Steatosis	Nonalcoholic fatty liver disease	6,12E-03	CPT1A,CYP7A1	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	6,36E-03	ACAA2,ACADVL,CYP3A4,POR,UGT1A1	5
+Liver Necrosis/Cell Death	Apoptosis of liver cell lines	7,61E-03	TNFSF10	1
+Liver Hyperplasia/Hyperproliferation	Progressive liver metastasis	9,13E-03	POR	1
+Liver Hyperplasia/Hyperproliferation	Ann Arbor stage I-IV hepatosplenic T-cell lymphoma	9,63E-03	POR	1
+Liver Hyperplasia/Hyperproliferation	Small cell undifferentiated hepatoblastoma	1,16E-02	POR	1
+Liver Damage	Liver Damage	1,22E-02	TNFSF10	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Locally advanced hepatocellular carcinoma	1,27E-02	POR	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Metastatic hepatocellular carcinoma	1,82E-02	POR	1
+Cardiac Enlargement	Enlargement of heart	1,85E-02	ACADVL,CPT1A	2
+Liver Hyperplasia/Hyperproliferation	Primary liver cancer	1,97E-02	POR	1
+Cardiac Dysfunction,Cardiac Enlargement	Hypertrophy of left ventricle	2,07E-02	CPT1A	1
+Cardiac Damage	Cardiotoxicity	2,52E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Liver tumor	2,79E-02	AASS,ACAA2,ACADVL,CYP3A4,CYP7A1,POR,TXNIP,UGT1A1	8
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Child-Pugh class A hepatocellular carcinoma	2,91E-02	POR	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	3,01E-02	CYP7A1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Unresectable hepatocellular carcinoma	3,06E-02	POR	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	3,75E-02	CYP7A1	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	4,27E-02	AASS,ACAA2,ACADVL,CYP3A4,CYP7A1,POR,UGT1A1	7
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	5,80E-02	TNFSF10	1
+Cardiac Arrythmia	Familial arrhythmia	5,99E-02	ACADVL	1
+Cardiac Dilation,Cardiac Enlargement	Primary dilated cardiomyopathy	7,19E-02	ACADVL	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	1,32E-01	TNFSF10	1

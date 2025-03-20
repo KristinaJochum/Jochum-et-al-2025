@@ -1,0 +1,34 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	3,87E-05	CCND1,CCNG1,CD44,CDKN1A,CYP2C19,FGB,GPX2,IDH1,IGFBP1,NQO1	10
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	1,82E-04	CCND1,CDKN1A,FGB	3
+Cardiac Arrythmia	Atrial fibrillation	1,17E-03	ALDH1A1,CDKN1A,TIMP1	3
+Cardiac Regeneration	Regeneration of cardiac muscle tissue	1,85E-03	CDKN1A	1
+Liver Steatosis	Advanced stage hepatic steatosis	2,77E-03	CD44	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Combined hepatocellular carcinoma and cholangiocarcinoma	6,46E-03	IDH1	1
+Cardiac Dysfunction,Cardiac Stenosis	Calcific aortic valve stenosis	8,30E-03	TIMP1	1
+Liver Damage	Hepatotoxicity	1,47E-02	ALDH1A1	1
+Liver Hyperplasia/Hyperproliferation	Liver cancer	1,84E-02	ALDH1A1,CCND1,CCNG1,CD44,CDKN1A,CYP2C19,FGB,GPX2,HMOX1,IDH1,IGFBP1,NQO1	12
+Cardiac Infarction	Nonfatal myocardial infarction	2,38E-02	CYP2C19	1
+Liver Steatosis	Hepatic steatosis	2,64E-02	CD44,CYP2C19	2
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	2,67E-02	CD44,CDKN1A	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Quantity of hepatocellular carcinoma	2,74E-02	IDH1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B surface antigen-negative hepatitis C virus negative hepatocellular carcinoma	2,83E-02	FGB	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage B hepatocellular carcinoma	2,92E-02	CCND1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage C hepatocellular carcinoma	3,46E-02	CCND1	1
+Cardiac Dysfunction	Calcification of aortic valve	3,48E-02	HMOX1,TIMP1	2
+Liver Inflammation/Hepatitis	Inflammation of liver	4,16E-02	CYP2C19,TIMP1	2
+Liver Hyperplasia/Hyperproliferation	Liver metastasis	4,17E-02	CD44	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	4,30E-02	CCND1,CCNG1,CD44,CDKN1A,CYP2C19,FGB,GPX2,HMOX1,IDH1,IGFBP1,NQO1	11
+Liver Cirrhosis	Cirrhosis	4,49E-02	NQO1,TIMP1	2
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	5,41E-02	GPX2	1
+Liver Hyperplasia/Hyperproliferation	Advanced liver cholangiocarcinoma	5,76E-02	IDH1	1
+Liver Inflammation/Hepatitis	Chronic hepatitis B	6,11E-02	TIMP1	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	6,72E-02	CYP2C19	1
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	1,03E-01	NQO1	1
+Kidney Failure	Chronic renal failure	1,33E-01	CDKN1A	1
+Renal Proliferation	Cell proliferation of kidney cell lines	1,82E-01	CDKN1A	1
+Cardiac Arteriopathy	Coronary artery disease	2,50E-01	CYP2C19	1
+Heart Failure	Failure of heart	2,66E-01	TIMP1	1
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy	2,99E-01	TIMP1	1

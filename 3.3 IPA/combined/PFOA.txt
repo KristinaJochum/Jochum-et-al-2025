@@ -1,0 +1,47 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Inflammation/Hepatitis	Infection by Hepatitis C virus	9,68E-07	CXCL10,CYP3A4,POR,UGT1A1	4
+Liver Inflammation/Hepatitis	Inflammation of liver	1,31E-06	CXCL10,CYP3A4,CYP7A1,POR,UGT1A1	5
+Liver Inflammation/Hepatitis	HIV-HCV co-infection	2,00E-06	CYP3A4,UGT1A1	2
+Liver Steatosis	Hepatic steatosis	5,30E-04	CPT1A,CXCL10,CYP7A1	3
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 1	6,02E-04	UGT1A1	1
+Liver Hyperbilirubinemia	Severe hyperbilirubinemia	6,02E-04	UGT1A1	1
+Liver Inflammation/Hepatitis	Chronic hepatitis C	1,19E-03	CXCL10,POR	2
+Liver Hyperbilirubinemia	Lucey-Driscoll syndrome	1,20E-03	UGT1A1	1
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 2	1,20E-03	UGT1A1	1
+Liver Necrosis/Cell Death	Quantity of apoptotic hepatocytes	1,20E-03	TNFSF10	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Steatohepatitis	1,21E-03	CXCL10,CYP7A1	2
+Liver Fibrosis	Chemotaxis of hepatic stellate cells	1,80E-03	CXCL10	1
+Liver Hyperplasia/Hyperproliferation	Inoperable liver metastasis	2,40E-03	POR	1
+Liver Hyperbilirubinemia	Gilbert syndrome	2,40E-03	UGT1A1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	2,51E-03	ACAA2,ACADVL,CXCL10,CYP3A4,POR,UGT1A1	6
+Liver Inflammation/Hepatitis	Chronic hepatitis C virus genotype 4	4,20E-03	POR	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 2	4,20E-03	CYP7A1	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Alcoholic steatohepatitis	5,40E-03	CXCL10	1
+Liver Steatosis	Nonalcoholic fatty liver disease	8,56E-03	CPT1A,CYP7A1	2
+Liver Necrosis/Cell Death	Apoptosis of liver cell lines	8,99E-03	TNFSF10	1
+Liver Hyperplasia/Hyperproliferation	Progressive liver metastasis	1,08E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Ann Arbor stage I-IV hepatosplenic T-cell lymphoma	1,14E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Small cell undifferentiated hepatoblastoma	1,38E-02	POR	1
+Liver Damage	Liver Damage	1,43E-02	TNFSF10	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Locally advanced hepatocellular carcinoma	1,49E-02	POR	1
+Renal Proliferation	Proliferation of mesangial cells	1,55E-02	CXCL10	1
+Liver Inflammation/Hepatitis	Severe alcoholic hepatitis	1,55E-02	CXCL10	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Metastatic hepatocellular carcinoma	2,14E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Primary liver cancer	2,32E-02	POR	1
+Cardiac Dysfunction,Cardiac Enlargement	Hypertrophy of left ventricle	2,44E-02	CPT1A	1
+Cardiac Enlargement	Enlargement of heart	2,56E-02	ACADVL,CPT1A	2
+Cardiac Damage	Cardiotoxicity	2,97E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Liver tumor	3,05E-02	AASS,ACAA2,ACADVL,CXCL10,CYP3A4,CYP7A1,POR,TXNIP,UGT1A1	9
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Child-Pugh class A hepatocellular carcinoma	3,43E-02	POR	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	3,55E-02	CYP7A1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Unresectable hepatocellular carcinoma	3,61E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	3,87E-02	AASS,ACAA2,ACADVL,CXCL10,CYP3A4,CYP7A1,POR,UGT1A1	8
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	4,42E-02	CYP7A1	1
+Liver Inflammation/Hepatitis	Infection by hepatitis B virus	5,62E-02	CXCL10	1
+Pulmonary Hypertension	Pulmonary hypertensive arterial disease	6,76E-02	CXCL10	1
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	6,82E-02	TNFSF10	1
+Cardiac Arrythmia	Familial arrhythmia	7,04E-02	ACADVL	1
+Cardiac Dilation,Cardiac Enlargement	Primary dilated cardiomyopathy	8,44E-02	ACADVL	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	1,54E-01	TNFSF10	1

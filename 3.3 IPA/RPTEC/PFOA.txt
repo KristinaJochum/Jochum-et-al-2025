@@ -1,0 +1,11 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Fibrosis	Chemotaxis of hepatic stellate cells	2,78E-04	CXCL10	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Alcoholic steatohepatitis	8,33E-04	CXCL10	1
+Renal Proliferation	Proliferation of mesangial cells	2,40E-03	CXCL10	1
+Liver Inflammation/Hepatitis	Severe alcoholic hepatitis	2,40E-03	CXCL10	1
+Liver Inflammation/Hepatitis	Chronic hepatitis C	7,94E-03	CXCL10	1
+Liver Inflammation/Hepatitis	Infection by hepatitis B virus	8,86E-03	CXCL10	1
+Pulmonary Hypertension	Pulmonary hypertensive arterial disease	1,07E-02	CXCL10	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	2,27E-01	CXCL10	1

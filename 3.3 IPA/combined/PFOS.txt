@@ -1,0 +1,61 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Inflammation/Hepatitis	Inflammation of liver	7,76E-06	CCN1,CYP2E1,CYP3A4,CYP7A1,POR,UGT1A1	6
+Liver Inflammation/Hepatitis	HIV-HCV co-infection	1,12E-05	CYP3A4,UGT1A1	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	1,88E-05	ADH1C,CCN1,CD44,CYP2B6,CYP2E1,CYP3A4,FN1,GPX2,POR,RAD51,S100A8,SERPINA3,UGT1A1	13
+Liver Cirrhosis,Liver Fibrosis	Primary liver cirrhosis	2,07E-05	CD80,FN1,SLC51B,TNFSF10	4
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	7,83E-05	ADH1C,CYP7A1,GPX2	3
+Liver Damage	Liver Damage	5,04E-04	ALDH1A1,TNFSF10	2
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	5,64E-04	CD80,SLC51B,TNFSF10	3
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Glomerulonephritis	6,96E-04	ASNS,CD80,CYP2B6,FN1	4
+Liver Inflammation/Hepatitis	Infection by Hepatitis C virus	8,37E-04	CYP3A4,POR,UGT1A1	3
+Liver Hyperplasia/Hyperproliferation	Liver cancer	1,30E-03	AASS,ADH1C,ALDH1A1,BRCA1,CCN1,CD44,CYP2B6,CYP2E1,CYP3A4,CYP7A1,FN1,FOXI1,GPX2,POR,RAD51,S100A8,SERPINA3,UGT1A1,UGT2B4	19
+Liver Hyperbilirubinemia	Severe hyperbilirubinemia	1,39E-03	UGT1A1	1
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 1	1,39E-03	UGT1A1	1
+Liver Hyperplasia/Hyperproliferation	Liver metastasis	1,86E-03	CD44,POR	2
+Renal Necrosis/Cell Death	Cell death of kidney cell lines	1,87E-03	BRCA1,CD44,RAD51,TNFSF10	4
+Liver Hyperplasia/Hyperproliferation	Liver tumor	2,57E-03	AASS,ADH1C,ALDH1A1,ASNS,BRCA1,CCN1,CD44,CYP2B6,CYP2E1,CYP3A4,CYP7A1,FN1,FOXI1,GPX2,POR,RAD51,S100A8,SERPINA3,UGT1A1,UGT2B4	20
+Liver Hyperbilirubinemia	Lucey-Driscoll syndrome	2,77E-03	UGT1A1	1
+Liver Necrosis/Cell Death	Quantity of apoptotic hepatocytes	2,77E-03	TNFSF10	1
+Liver Hyperbilirubinemia	Crigler-Najjar syndrome type 2	2,77E-03	UGT1A1	1
+Glomerular Injury	Glomerulopathy with fibronectin deposits type 2	2,77E-03	FN1	1
+Kidney Failure	Failure of kidney	3,54E-03	CD80,CYP2B6,SERPINA3	3
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Goodpasture syndrome	4,16E-03	ASNS	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Type I Alport syndrome	4,16E-03	FN1	1
+Liver Steatosis	Advanced stage hepatic steatosis	4,16E-03	CD44	1
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	4,85E-03	CYP2E1,CYP7A1	2
+Renal Damage	Acute kidney injury	5,37E-03	CCN1,SERPINA3	2
+Liver Hyperplasia/Hyperproliferation	Inoperable liver metastasis	5,54E-03	POR	1
+Liver Hyperbilirubinemia	Gilbert syndrome	5,54E-03	UGT1A1	1
+Liver Steatosis	Hepatic steatosis	6,42E-03	CD44,CYP2E1,CYP7A1	3
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	6,55E-03	BRCA1,CD44,TNFSF10	3
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	8,87E-03	AASS,ADH1C,BRCA1,CCN1,CD44,CYP2B6,CYP2E1,CYP3A4,CYP7A1,FN1,FOXI1,GPX2,POR,RAD51,S100A8,SERPINA3,UGT1A1	17
+Liver Inflammation/Hepatitis	Chronic hepatitis C virus genotype 4	9,68E-03	POR	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 2	9,68E-03	CYP7A1	1
+Kidney Failure	End stage renal disease	1,18E-02	CD80,CYP2B6	2
+Liver Necrosis/Cell Death	Apoptosis of liver cell lines	2,06E-02	TNFSF10	1
+Liver Damage	Hepatotoxicity	2,20E-02	ALDH1A1	1
+Liver Hyperplasia/Hyperproliferation	Progressive liver metastasis	2,47E-02	POR	1
+Renal Damage	Nephrotoxicity	2,47E-02	CD80	1
+Liver Inflammation/Hepatitis	Chronic hepatitis	2,60E-02	CCN1,POR	2
+Liver Hyperplasia/Hyperproliferation	Ann Arbor stage I-IV hepatosplenic T-cell lymphoma	2,61E-02	POR	1
+Kidney Failure	Acute renal allograft rejection	2,74E-02	SERPINA3	1
+Cardiac Inflammation	Acute myocarditis	2,74E-02	CD80	1
+Liver Inflammation/Hepatitis	Chronic autoimmune hepatitis	3,15E-02	CCN1	1
+Liver Hyperplasia/Hyperproliferation	Small cell undifferentiated hepatoblastoma	3,15E-02	POR	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Locally advanced hepatocellular carcinoma	3,42E-02	POR	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Lupus nephritis	3,72E-02	CD80,CYP2B6	2
+Cardiac Arrythmia	Atrial fibrillation	4,00E-02	ALDH1A1,FN1	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Metastatic hepatocellular carcinoma	4,88E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Primary liver cancer	5,28E-02	POR	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Systemic lupus erythematosus nephritis	5,93E-02	CD80	1
+Cardiac Damage	Cardiotoxicity	6,72E-02	POR	1
+Cardiac Arteriopathy	Coronary artery disease	6,78E-02	ACAT2,FN1	2
+Cardiac Dysfunction	Calcification of aortic valve	7,25E-02	CCN1,FN1	2
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Child-Pugh class A hepatocellular carcinoma	7,75E-02	POR	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Unresectable hepatocellular carcinoma	8,14E-02	POR	1
+Liver Hyperplasia/Hyperproliferation	Liver cholangiocarcinoma	1,53E-01	BRCA1	1
+Renal Necrosis/Cell Death	Cell viability of kidney cell lines	1,66E-01	BRCA1	1
+Nephrosis	Nephrosis	2,52E-01	FN1	1
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy	4,14E-01	FN1	1

@@ -1,0 +1,54 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Liver Hyperplasia/Hyperproliferation	Liver cancer	5,71E-09	AASS,ACAA2,ACADL,ACAT1,ALDH1A1,ALDH2,ASAH1,BDH2,BRCA1,CCND1,CDKN1A,CYP2C19,CYP2C9,CYP2D6,CYP7B1,DECR1,FABP1,FH,FMO2,HADHB,HMOX1,HSPA5,LIG4,MAOB,MT1A,NQO1,SELENOS,SYCP2,TPO,UBXN4,UCHL1,XPA	32
+Liver Hyperplasia/Hyperproliferation	Liver tumor	3,53E-08	AASS,ACAA2,ACADL,ACAT1,ALDH1A1,ALDH2,ASAH1,BDH2,BRCA1,CCND1,CDKN1A,CYP2C19,CYP2C9,CYP2D6,CYP7B1,DECR1,FABP1,FH,FMO2,FMO3,HADHB,HMOX1,HSPA5,LIG4,MAOB,MT1A,NQO1,SELENOS,SYCP2,TPO,UBXN4,UCHL1,XPA	33
+Liver Hyperplasia/Hyperproliferation	Liver carcinoma	1,33E-07	AASS,ACAA2,ACADL,ACAT1,ALDH2,ASAH1,BDH2,BRCA1,CCND1,CDKN1A,CYP2C19,CYP2C9,CYP2D6,CYP7B1,DECR1,FABP1,FH,FMO2,HADHB,HMOX1,HSPA5,LIG4,MAOB,MT1A,NQO1,SELENOS,SYCP2,TPO,UBXN4,XPA	30
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	7,27E-06	ACAA2,ACADL,ACAT1,ALDH2,CCND1,CDKN1A,CYP2C19,CYP2C9,CYP7B1,FH,HADHB,HSPA5,MAOB,MT1A,NQO1,TPO	16
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B virus-related hepatocellular carcinoma	7,31E-05	CCND1,CDKN1A,CYP7B1,HSPA5	4
+Kidney Failure	Failure of kidney	7,41E-04	CD86,CDKN1A,CYP2D6,FABP1	4
+Cardiac Arrythmia	Atrial fibrillation	8,32E-04	ALDH1A1,CDKN1A,CYP2D6,MAOB	4
+Liver Cirrhosis,Liver Fibrosis	Primary biliary cirrhosis	1,32E-03	CD86,MTTP,NQO1	3
+Liver Cirrhosis,Liver Fibrosis	Cirrhosis of liver	1,51E-03	CD86,CYP7B1,MTTP,NQO1	4
+Renal Damage,Renal Tubule Injury	Injury of tubulointerstitium	1,85E-03	FABP1	1
+Liver Cholestasis	Advanced stage intrahepatic cholestasis	1,85E-03	CYP7B1	1
+Kidney Failure	Chronic renal failure	2,89E-03	CD86,CDKN1A,CYP2D6	3
+Cardiac Regeneration	Regeneration of cardiac muscle tissue	3,70E-03	CDKN1A	1
+Cardiac Arrythmia	Ventricular fibrillation	5,17E-03	CYP2D6,MAOB	2
+Cardiac Arteriopathy	Susceptibility to coronary artery disease	5,54E-03	PON1	1
+Kidney Failure,Renal Damage	Ischemic acute renal failure	7,38E-03	FABP1	1
+Cardiac Arrythmia,Tachycardia	Ventricular tachycardia	7,45E-03	CYP2D6,MAOB	2
+Liver Inflammation/Hepatitis,Liver Steatosis	Nonalcoholic steatohepatitis	8,51E-03	CYP2C19,HSPA5	2
+Liver Steatosis	Nonalcoholic fatty liver disease	9,43E-03	ACADL,CYP2C19,HSPA5	3
+Liver Inflammation/Hepatitis	Chronic hepatitis C	1,11E-02	CYP2C9,HSPA5	2
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	1,45E-02	BRCA1,CDKN1A,HSPA5	3
+Cardiac Infarction	Myocardial infarction	1,55E-02	CYP2C19,CYP2C9,PON1	3
+Liver Cirrhosis,Liver Fibrosis	Early stage primary biliary cirrhosis	1,65E-02	MTTP	1
+Cardiac Arteriopathy	Coronary artery disease	1,92E-02	CYP2C19,CYP2C9,PON1	3
+Kidney Failure	End stage renal disease	2,05E-02	CD86,CYP2D6	2
+Cardiac Dysfunction	Calcification of aortic valve	2,12E-02	HMOX1,PON1,UCHL1	3
+Liver Inflammation/Hepatitis	Inflammation of liver	2,73E-02	CYP2C19,CYP2C9,HSPA5	3
+Liver Damage	Hepatotoxicity	2,92E-02	ALDH1A1	1
+Liver Cholestasis	Intrahepatic cholestasis	2,95E-02	CYP7B1,MTTP	2
+Renal Damage	Nephrotoxicity	3,28E-02	CD86	1
+Cardiac Inflammation	Acute myocarditis	3,64E-02	CD86	1
+Cardiac Arrythmia	Symptomatic stage atrial fibrillation	4,00E-02	CYP2D6	1
+Cardiac Arrythmia,Tachycardia	Sustained ventricular tachycardia	4,00E-02	CYP2D6	1
+Cardiac Arrythmia	Symptomatic stage atrial flutter	4,00E-02	CYP2D6	1
+Cardiac Infarction	Nonfatal myocardial infarction	4,71E-02	CYP2C19	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Quantity of hepatocellular carcinoma	5,41E-02	FH	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis B surface antigen-negative hepatitis C virus negative hepatocellular carcinoma	5,59E-02	HSPA5	1
+Cardiac Arrythmia,Tachycardia	Recurrent tachyarrhythmia	5,59E-02	CYP2D6	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage B hepatocellular carcinoma	5,76E-02	CCND1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatitis C virus-related hepatocellular carcinoma	5,76E-02	HSPA5	1
+Cardiac Arrythmia	Severe ventricular arrhythmia	6,80E-02	CYP2D6	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	BCLC stage C hepatocellular carcinoma	6,80E-02	CCND1	1
+Liver Cholestasis	Progressive familial intrahepatic cholestasis type 1	1,05E-01	MTTP	1
+Liver Failure	Failure of liver	1,05E-01	CYP7B1	1
+Liver Hyperplasia/Hyperproliferation	Hepatoblastoma	1,60E-01	FH	1
+Liver Hyperplasia/Hyperproliferation	Liver cholangiocarcinoma	1,98E-01	BRCA1	1
+Renal Necrosis/Cell Death	Cell viability of kidney cell lines	2,15E-01	BRCA1	1
+Cardiac Infarction	Acute myocardial infarction	2,46E-01	PON1	1
+Renal Proliferation	Cell proliferation of kidney cell lines	3,31E-01	CDKN1A	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Lupus nephritis	3,36E-01	CD86	1
+Heart Failure	Failure of heart	4,62E-01	HSPA5	1

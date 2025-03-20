@@ -1,0 +1,399 @@
+effect;Gene
+Apoptosis;ABL1
+Apoptosis;AKT1
+Apoptosis;APAF1
+Apoptosis;BAD
+Apoptosis;BAK1
+Apoptosis;BAX
+Apoptosis;BCL2
+Apoptosis;BCL2L1
+Apoptosis;BCL2L11
+Apoptosis;BID
+Apoptosis;BIRC3
+Apoptosis;CASP1
+Apoptosis;CASP3
+Apoptosis;CASP7
+Apoptosis;CASP8
+Apoptosis;CASP9
+Apoptosis;CD40
+Apoptosis;CD40LG
+Apoptosis;CFLAR
+Apoptosis;FADD
+Apoptosis;FAS
+Apoptosis;FASLG
+Apoptosis;GADD45A
+Apoptosis;MCL1
+Apoptosis;TNF
+Apoptosis;TNFRSF10A
+Apoptosis;TNFRSF10B
+Apoptosis;TNFRSF1A
+Apoptosis;TNFSF10
+Apoptosis;TP53
+Apoptosis;XIAP
+Necrosis;ATP6V1G2
+Necrosis;BMF
+Necrosis;CCDC103
+Necrosis;CD300LD
+Necrosis;CLEC18A
+Necrosis;COMMD4
+Necrosis;CYLD
+Necrosis;DEFB1
+Necrosis;DPYSL4
+Necrosis;EIF5B
+Necrosis;FOXI1
+Necrosis;GALNT5
+Necrosis;GRB2
+Necrosis;HOXA3
+Necrosis;HSPBAP1
+Necrosis;JPH3
+Necrosis;KCNIP1
+Necrosis;NUDT13
+Necrosis;OR10J3
+Necrosis;PARP2
+Necrosis;PVR
+Necrosis;RAB25
+Necrosis;SPATA2
+Necrosis;SYCP2
+Necrosis;TNFAIP8L1
+Necrosis;TNFRSF1A
+Necrosis;TXNL4B
+Necrosis;MACO1
+Necrosis;MAG
+Necrosis;S100A7A
+DNA Damage%and Repair;APEX1
+DNA Damage%and Repair;ATM
+DNA Damage%and Repair;ATR
+DNA Damage%and Repair;BRCA1
+DNA Damage%and Repair;BRCA2
+DNA Damage%and Repair;CDKN1A
+DNA Damage%and Repair;CHEK1
+DNA Damage%and Repair;CHEK2
+DNA Damage%and Repair;DDIT3
+DNA Damage%and Repair;ERCC1
+DNA Damage%and Repair;ERCC2
+DNA Damage%and Repair;ERCC3
+DNA Damage%and Repair;ERCC5
+DNA Damage%and Repair;ERCC6
+DNA Damage%and Repair;GADD45A
+DNA Damage%and Repair;LIG4
+DNA Damage%and Repair;MDM2
+DNA Damage%and Repair;MGMT
+DNA Damage%and Repair;MLH1
+DNA Damage%and Repair;MSH2
+DNA Damage%and Repair;OGG1
+DNA Damage%and Repair;PARP1
+DNA Damage%and Repair;PCNA
+DNA Damage%and Repair;PRKDC
+DNA Damage%and Repair;RAD51
+DNA Damage%and Repair;TP53
+DNA Damage%and Repair;XPA
+DNA Damage%and Repair;XPC
+DNA Damage%and Repair;XRCC1
+DNA Damage%and Repair;XRCC5
+Mitochondrial%Energy%Metabolism;ACLY
+Mitochondrial%Energy%Metabolism;ACO1
+Mitochondrial%Energy%Metabolism;ACO2
+Mitochondrial%Energy%Metabolism;COX6B1
+Mitochondrial%Energy%Metabolism;COX8A
+Mitochondrial%Energy%Metabolism;CS
+Mitochondrial%Energy%Metabolism;CYC1
+Mitochondrial%Energy%Metabolism;DLD
+Mitochondrial%Energy%Metabolism;DLST
+Mitochondrial%Energy%Metabolism;FH
+Mitochondrial%Energy%Metabolism;IDH1
+Mitochondrial%Energy%Metabolism;IDH2
+Mitochondrial%Energy%Metabolism;IDH3A
+Mitochondrial%Energy%Metabolism;IDH3B
+Mitochondrial%Energy%Metabolism;IDH3G
+Mitochondrial%Energy%Metabolism;MDH1
+Mitochondrial%Energy%Metabolism;MDH1B
+Mitochondrial%Energy%Metabolism;MDH2
+Mitochondrial%Energy%Metabolism;OGDH
+Mitochondrial%Energy%Metabolism;SDHA
+Mitochondrial%Energy%Metabolism;SDHB
+Mitochondrial%Energy%Metabolism;SDHC
+Mitochondrial%Energy%Metabolism;SDHD
+Mitochondrial%Energy%Metabolism;SUCLA2
+Mitochondrial%Energy%Metabolism;SUCLG1
+Mitochondrial%Energy%Metabolism;SUCLG2
+Mitochondrial%Energy%Metabolism;UCP1
+Mitochondrial%Energy%Metabolism;UCP2
+Mitochondrial%Energy%Metabolism;UCP3
+Fatty Acid%Metabolism;ACAA1
+Fatty Acid%Metabolism;ACAA2
+Fatty Acid%Metabolism;ACAD11
+Fatty Acid%Metabolism;ACAD9
+Fatty Acid%Metabolism;ACADL
+Fatty Acid%Metabolism;ACADM
+Fatty Acid%Metabolism;ACADS
+Fatty Acid%Metabolism;ACADSB
+Fatty Acid%Metabolism;ACADVL
+Fatty Acid%Metabolism;ACAT1
+Fatty Acid%Metabolism;ACAT2
+Fatty Acid%Metabolism;ACOT1
+Fatty Acid%Metabolism;ACOT12
+Fatty Acid%Metabolism;ACOT6
+Fatty Acid%Metabolism;ACOT7
+Fatty Acid%Metabolism;ACOT8
+Fatty Acid%Metabolism;ACOT9
+Fatty Acid%Metabolism;ACOX1
+Fatty Acid%Metabolism;ACOX2
+Fatty Acid%Metabolism;ACOX3
+Fatty Acid%Metabolism;BDH2
+Fatty Acid%Metabolism;CPT1A
+Fatty Acid%Metabolism;CPT1B
+Fatty Acid%Metabolism;CPT2
+Fatty Acid%Metabolism;CRAT
+Fatty Acid%Metabolism;CROT
+Fatty Acid%Metabolism;DECR1
+Fatty Acid%Metabolism;ECHS1
+Fatty Acid%Metabolism;EHHADH
+Fatty Acid%Metabolism;GCDH
+Fatty Acid%Metabolism;HADHA
+Oxidative Stress;AASS
+Oxidative Stress;CAT
+Oxidative Stress;CTSB
+Oxidative Stress;DHCR24
+Oxidative Stress;DUOX1
+Oxidative Stress;DUOX2
+Oxidative Stress;EPX
+Oxidative Stress;GPX1
+Oxidative Stress;GPX2
+Oxidative Stress;GPX3
+Oxidative Stress;GPX4
+Oxidative Stress;GPX5
+Oxidative Stress;GPX6
+Oxidative Stress;GPX7
+Oxidative Stress;IDH1
+Oxidative Stress;MPO
+Oxidative Stress;NQO1
+Oxidative Stress;NUDT1
+Oxidative Stress;NUDT15
+Oxidative Stress;PPP1R15B
+Oxidative Stress;PRDX1
+Oxidative Stress;PRDX2
+Oxidative Stress;PRDX6
+Oxidative Stress;SOD1
+Oxidative Stress;TPO
+Oxidative Stress;TXNIP
+Oxidative Stress;TXNRD2
+Oxidative Stress;UCP3
+Heat Shock%Response;CRYAA
+Heat Shock%Response;CRYAB
+Heat Shock%Response;DNAJA1
+Heat Shock%Response;DNAJA2
+Heat Shock%Response;DNAJA3
+Heat Shock%Response;DNAJB1
+Heat Shock%Response;DNAJB6
+Heat Shock%Response;DNAJC3
+Heat Shock%Response;DNAJC5
+Heat Shock%Response;DNAJC6
+Heat Shock%Response;HSF1
+Heat Shock%Response;HSF2
+Heat Shock%Response;HSP90AA1
+Heat Shock%Response;HSP90AB1
+Heat Shock%Response;HSP90B1
+Heat Shock%Response;HSPA1A
+Heat Shock%Response;HSPA1B
+Heat Shock%Response;HSPA1L
+Heat Shock%Response;HSPA2
+Heat Shock%Response;HSPA4
+Heat Shock%Response;HSPA5
+Heat Shock%Response;HSPA8
+Heat Shock%Response;HSPA9
+Heat Shock%Response;HSPB1
+Heat Shock%Response;HSPB2
+Heat Shock%Response;HSPB6
+Heat Shock%Response;HSPB8
+Heat Shock%Response;HSPD1
+Heat Shock%Response;HSPE1
+Heat Shock%Response;HSPH1
+Heat Shock%Response;TCP1
+ER Stress and%Unfolded Protein%Response;AMFR
+ER Stress and%Unfolded Protein%Response;ATF4
+ER Stress and%Unfolded Protein%Response;ATF6
+ER Stress and%Unfolded Protein%Response;BAX
+ER Stress and%Unfolded Protein%Response;DDIT3
+ER Stress and%Unfolded Protein%Response;DERL1
+ER Stress and%Unfolded Protein%Response;EDEM1
+ER Stress and%Unfolded Protein%Response;EDEM3
+ER Stress and%Unfolded Protein%Response;EIF2AK3
+ER Stress and%Unfolded Protein%Response;ERN2
+ER Stress and%Unfolded Protein%Response;ERO1A
+ER Stress and%Unfolded Protein%Response;ERO1B
+ER Stress and%Unfolded Protein%Response;FBXO6
+ER Stress and%Unfolded Protein%Response;GADD45A
+ER Stress and%Unfolded Protein%Response;HERPUD1
+ER Stress and%Unfolded Protein%Response;HTRA2
+ER Stress and%Unfolded Protein%Response;HTRA4
+ER Stress and%Unfolded Protein%Response;MBTPS1
+ER Stress and%Unfolded Protein%Response;MBTPS2
+ER Stress and%Unfolded Protein%Response;NPLOC4
+ER Stress and%Unfolded Protein%Response;NUCB1
+ER Stress and%Unfolded Protein%Response;OS9
+ER Stress and%Unfolded Protein%Response;PFDN5
+ER Stress and%Unfolded Protein%Response;SEC62
+ER Stress and%Unfolded Protein%Response;SEL1L
+ER Stress and%Unfolded Protein%Response;SELENOS
+ER Stress and%Unfolded Protein%Response;SERP1
+ER Stress and%Unfolded Protein%Response;SYVN1
+ER Stress and%Unfolded Protein%Response;UBE2G2
+ER Stress and%Unfolded Protein%Response;UBE2J2
+ER Stress and%Unfolded Protein%Response;UBXN4
+ER Stress and%Unfolded Protein%Response;VCP
+ER Stress and%Unfolded Protein%Response;XBP1
+CYPs and%Phase I;CYP1A1
+CYPs and%Phase I;CYP1A2
+CYPs and%Phase I;CYP2B6
+CYPs and%Phase I;CYP2C19
+CYPs and%Phase I;CYP2C9
+CYPs and%Phase I;CYP2D6
+CYPs and%Phase I;CYP2E1
+CYPs and%Phase I;CYP3A4
+CYPs and%Phase I;ESD
+CYPs and%Phase I;FMO2
+CYPs and%Phase I;FMO3
+CYPs and%Phase I;FMO4
+CYPs and%Phase I;FMO5
+CYPs and%Phase I;MAOA
+CYPs and%Phase I;MAOB
+Steatosis;ACACA
+Steatosis;ADK
+Steatosis;ALDH2
+Steatosis;AQP4
+Steatosis;CD36
+Steatosis;COMT
+Steatosis;CYP2E1
+Steatosis;CYP7B1
+Steatosis;DNM1
+Steatosis;ENO1
+Steatosis;FAS
+Steatosis;FASN
+Steatosis;GPD1
+Steatosis;HAAO
+Steatosis;HADHB
+Steatosis;KHK
+Steatosis;LMNA
+Steatosis;LPL
+Steatosis;LY6D
+Steatosis;MAPK8
+Steatosis;MTTP
+Steatosis;PCCA
+Steatosis;PNPLA3
+Steatosis;PPARA
+Steatosis;RETN
+Steatosis;SCD
+Steatosis;SREBF1
+Steatosis;SYT1
+Steatosis;TFF3
+Steatosis;VCP
+Cholestasis;ABCB1
+Cholestasis;ABCB4
+Cholestasis;ABCC1
+Cholestasis;ABCC2
+Cholestasis;ABCC3
+Cholestasis;APOE
+Cholestasis;ATP8B1
+Cholestasis;CYP3A4
+Cholestasis;CYP7A1
+Cholestasis;DLAT
+Cholestasis;ESR1
+Cholestasis;HLA-DRB1
+Cholestasis;ICAM1
+Cholestasis;IL10
+Cholestasis;IL1B
+Cholestasis;IL2
+Cholestasis;IL6
+Cholestasis;JAG1
+Cholestasis;MPO
+Cholestasis;NR1H4
+Cholestasis;NUP210
+Cholestasis;PDYN
+Cholestasis;RDX
+Cholestasis;SLC10A1
+Cholestasis;SLC51A
+Cholestasis;SLC51B
+Cholestasis;TGFB1
+Cholestasis;TNF
+Phospholipidosis;ABCB1
+Phospholipidosis;ALDH1A1
+Phospholipidosis;ASAH1
+Phospholipidosis;ASNS
+Phospholipidosis;CES2
+Phospholipidosis;CTSB
+Phospholipidosis;EPHX1
+Phospholipidosis;FABP1
+Phospholipidosis;GSTM4
+Phospholipidosis;HPN
+Phospholipidosis;INHBE
+Phospholipidosis;LSS
+Phospholipidosis;MANBA
+Phospholipidosis;MLX
+Phospholipidosis;MRPS18B
+Phospholipidosis;NR0B2
+Phospholipidosis;POR
+Phospholipidosis;S100A8
+Phospholipidosis;SERPINA3
+Phospholipidosis;SLC2A3
+Phospholipidosis;SLCO1A2
+Phospholipidosis;SMPD1
+Phospholipidosis;STBD1
+Phospholipidosis;TAGLN
+Phospholipidosis;TIMM10B
+Phospholipidosis;UGT1A1
+Phospholipidosis;UGT2A1
+Phospholipidosis;UGT2B4
+Phospholipidosis;WIPI1
+Phospholipidosis;MSMO1
+Immunotoxicity;ADH1C
+Immunotoxicity;AHR
+Immunotoxicity;AHSG
+Immunotoxicity;ALB
+Immunotoxicity;APOA5
+Immunotoxicity;APOF
+Immunotoxicity;C3
+Immunotoxicity;C9
+Immunotoxicity;CASP3
+Immunotoxicity;CD19
+Immunotoxicity;CD4
+Immunotoxicity;CD44
+Immunotoxicity;CD80
+Immunotoxicity;CD86
+Immunotoxicity;CD8A
+Immunotoxicity;CTSE
+Immunotoxicity;CYP1A1
+Immunotoxicity;CYP3A4
+Immunotoxicity;EP300
+Immunotoxicity;F2
+Immunotoxicity;FABP1
+Immunotoxicity;FAS
+Immunotoxicity;GPT
+Immunotoxicity;GSTA3
+Immunotoxicity;HPX
+Immunotoxicity;HRG
+Immunotoxicity;HSPA5
+Immunotoxicity;IFNA1
+Immunotoxicity;IFNG
+Immunotoxicity;IL10
+Immunotoxicity;IL13
+Immunotoxicity;IL1A
+Immunotoxicity;IL1B
+Immunotoxicity;IL2
+Immunotoxicity;IL4
+Immunotoxicity;IL5
+Immunotoxicity;IL6
+Immunotoxicity;ITGAX
+Immunotoxicity;KLF1
+Immunotoxicity;LYZ
+Immunotoxicity;METAP2
+Immunotoxicity;MKI67
+Immunotoxicity;NFKB1
+Immunotoxicity;NR5A2
+Immunotoxicity;PON1
+Immunotoxicity;POU3F3
+Immunotoxicity;PTGS2
+Immunotoxicity;PTPRC
+Immunotoxicity;SOD1
+Immunotoxicity;TNF
+Immunotoxicity;TRIM10
+Immunotoxicity;UBQLN2

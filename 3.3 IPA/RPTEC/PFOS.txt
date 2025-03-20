@@ -1,0 +1,19 @@
+© 2000-2024 QIAGEN. All rights reserved.
+
+Categories	Diseases or Functions Annotation	p-value	Molecules	# Molecules
+Glomerular Injury	Glomerulopathy with fibronectin deposits type 2	5,55E-04	FN1	1
+Glomerular Injury,Renal Inflammation,Renal Nephritis	Type I Alport syndrome	8,33E-04	FN1	1
+Liver Steatosis	Advanced stage hepatic steatosis	8,33E-04	CD44	1
+Cardiac Arrythmia	Atrial fibrillation	1,63E-03	ALDH1A1,FN1	2
+Cardiac Dysfunction	Calcification of aortic valve	3,15E-03	CCN1,FN1	2
+Liver Damage	Hepatotoxicity	4,43E-03	ALDH1A1	1
+Liver Inflammation/Hepatitis	Chronic autoimmune hepatitis	6,37E-03	CCN1	1
+Liver Hyperplasia/Hyperproliferation	Liver metastasis	1,27E-02	CD44	1
+Renal Damage	Acute kidney injury	2,17E-02	CCN1	1
+Hepatocellular carcinoma,Liver Hyperplasia/Hyperproliferation	Hepatocellular carcinoma	2,67E-02	CCN1,CD44,FN1	3
+Liver Cirrhosis,Liver Fibrosis	Primary liver cirrhosis	3,23E-02	FN1	1
+Nephrosis	Nephrosis	5,64E-02	FN1	1
+Renal Necrosis/Cell Death	Apoptosis of kidney cell lines	7,45E-02	CD44	1
+Cardiac Arteriopathy	Coronary artery disease	8,25E-02	FN1	1
+Cardiac Dilation,Cardiac Enlargement	Dilated cardiomyopathy	1,01E-01	FN1	1
+Liver Hyperplasia/Hyperproliferation	Liver cancer	1,15E-01	ALDH1A1,CCN1,CD44,FN1	4

@@ -1,0 +1,118 @@
+effect;Gene
+Apoptosis;ANGPTL4
+Apoptosis;ANXA5
+Apoptosis;BTG2
+Apoptosis;CD24
+Apoptosis;CD44
+Apoptosis;CDKN1A
+Apoptosis;CLU
+Apoptosis;GADD45A
+Apoptosis;GSTP1
+Apoptosis;HMOX1
+Apoptosis;NQO1
+Apoptosis;RTN4
+Apoptosis;SOCS3
+Apoptosis;TNFRSF12A
+Apoptosis;BMP4
+Apoptosis;CAT
+Apoptosis;GHR
+Apoptosis;IGFBP3
+Apoptosis;SOD2
+Cell Cylce;CCND1
+Cell Cylce;CCNG1
+Cell Cylce;CDKN1A
+Cell Cylce;GADD45A
+Cell Cylce;MCM6
+Cell Cylce;BMP4
+Cell Cylce;EGF
+Metal Ion Binding;BMP1
+Metal Ion Binding;CCS
+Metal Ion Binding;CP
+Metal Ion Binding;CTSS
+Metal Ion Binding;HMOX1
+Metal Ion Binding;HMOX2
+Metal Ion Binding;MT1A
+Metal Ion Binding;BHMT
+Metal Ion Binding;IDH1
+Metal Ion Binding;RGN
+Metal Ion Binding;SCD
+Metal Ion Binding;SOD2
+Metal Ion Binding;SOD3
+Oxidative Stress;CLU
+Oxidative Stress;G6PD
+Oxidative Stress;GPX2
+Oxidative Stress;GPX8
+Oxidative Stress;HMOX1
+Oxidative Stress;HMOX2
+Oxidative Stress;NQO1
+Oxidative Stress;CAT
+Oxidative Stress;GATM
+Oxidative Stress;IDH1
+Oxidative Stress;SOD2
+Oxidative Stress;SOD3
+Cell Proliferation;ATF3
+Cell Proliferation;BTG2
+Cell Proliferation;CCND1
+Cell Proliferation;CD24
+Cell Proliferation;CDKN1A
+Cell Proliferation;CLU
+Cell Proliferation;CXCL1
+Cell Proliferation;CXCL10
+Cell Proliferation;GLUL
+Cell Proliferation;GPNMB
+Cell Proliferation;HMOX1
+Cell Proliferation;HSP90AA1
+Cell Proliferation;TIMP1
+Cell Proliferation;UCHL1
+Cell Proliferation;VCAM1
+Cell Proliferation;BMP4
+Cell Proliferation;EGF
+Cell Proliferation;IGFBP3
+Cell Proliferation;NOX4
+Cell Proliferation;ODC1
+Cell Proliferation;SOD2
+Tissue Remodeling;CST3
+Tissue Remodeling;FN1
+Tissue Remodeling;HAVCR1
+Tissue Remodeling;SPP1
+Tissue Remodeling;TIMP1
+Transporters;ABCB1
+Transporters;ABCC2
+Transporters;SLC22A1
+Transporters;SLC22A5
+Transporters;SLC22A6
+Xenobiotic Metabolism;CYP2C19
+Xenobiotic Metabolism;GSTP1
+Xenobiotic Metabolism;CYP2D6
+Xenobiotic Metabolism;FMO2
+Xenobiotic Metabolism;GSTK1
+Extracellular Matrix Molecules;ANGPTL4
+Extracellular Matrix Molecules;CCL3
+Extracellular Matrix Molecules;CD44
+Extracellular Matrix Molecules;CST3
+Extracellular Matrix Molecules;FGB
+Extracellular Matrix Molecules;LGALS3
+Extracellular Matrix Molecules;MGP
+Extracellular Matrix Molecules;TIMP1
+Extracellular Matrix Molecules;BMP4
+Extracellular Matrix Molecules;CYR61
+Extracellular Matrix Molecules;SOD3
+Cytosceleton Regulators;CCL3
+Cytosceleton Regulators;G6PD
+Cytosceleton Regulators;SPRR1A
+Cytosceleton Regulators;TMSB10
+Cytosceleton Regulators;VIM
+Others;A2M
+Others;GC
+Others;IGFBP1
+Others;LCN2
+Others;UGT1A1
+Others;AASS
+Others;ALDH1A1
+Others;CALB1
+Others;G6PC
+Others;GAMT
+Others;IPMK
+Others;KLK1
+Others;NPHS2
+Others;OAT
