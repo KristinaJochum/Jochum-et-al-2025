@@ -5,7 +5,7 @@ Kristina Jochum a, Andrea Miccoli a,b,1, Cornelia Sommersdorf c, Oliver Poetz c,
 
 a German Federal Institute for Risk Assessment, Department of Pesticides Safety, Berlin, Germany
 b German Federal Institute for Risk Assessment, Department of Food Safety, Berlin, Germany
-c Signatope GmbH, Tübingen, Germany
+c Signatope GmbH, Reutlingen, Germany
 d NMI Natural and Medical Sciences Institute at the University of Tübingen, Reutlingen, Germany
 1 present address: National Research Council, Institute for Marine Biological Resources and Biotechnology (IRBIM), Ancona, Italy
 
@@ -45,7 +45,7 @@ IPA version 111725566 was used.
 HepaRG/RPTEC_Protein contain multiplex microsphere-based sandwich immunoassay readings for all samples and sample information.
 Protein.R is used to analyse the data files and generate Heatmaps and supplementary boxplots.
 
-Samples were analyzed by Signatope GmbH, Tübingen, Germany).
+Samples were analyzed by Signatope GmbH, Reutlingen, Germany).
 
 
 
